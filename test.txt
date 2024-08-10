@@ -1,6 +1,12 @@
 
 adilskills we are maka a disigns
  cloud computing course 
+<<<<<<< HEAD
 list of file.
 instrafructure of service
 services model
+=======
+list of files.
+platform as a service.
+software as a service.
+>>>>>>> master
